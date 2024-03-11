@@ -12,7 +12,7 @@
 [Reference sources.](https://github.com/devbean/snake-game) If there is an infringement or legal issue, please contact me to delete.
 ## Usage
 1. ```build&run.```
-2. Use ```↑ ↓ ← →``` to control the sanke to move in different directions.<br>
+2. Use ```↑ ↓ ← →``` to control the snake to move in different directions.<br>
 Use ```Ctrl+N``` to create a new game interface.<br>
 Use ```Ctrl+Q``` to quit the game.<br>
 Use ```Ctrl+H``` to find help.<br>
